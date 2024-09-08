@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",
+    "esModuleInterop": true,
+    "target": "es2016",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "moduleResolution": "NodeNext",
+    "sourceMap": true,
+    "outDir": "bin"
+  },
+  "exclude": ["node_modules"],
+  "include": ["src/**/*.ts"]
+}
